@@ -40,7 +40,7 @@ uses
   GridPrn,
   TagEdit,
   Task,
-  LineEnding,
+  LineEdng,
   ArrayHelper;
 
 type
